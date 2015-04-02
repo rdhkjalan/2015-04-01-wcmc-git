@@ -1,5 +1,6 @@
 #Thesis 
-By: Radhika Jalan
+By: Radhika J Agarwal
+Title of Thesis 
 
 My PhD thesis. 
 It is going to have 4 chapters.
